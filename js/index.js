@@ -18,5 +18,6 @@ $(function() {
     });
     $(window).resize(function() {
         initSize();
-    })
+    });
+
 });

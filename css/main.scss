@@ -2,4 +2,13 @@
 #
 ---
 
-@import "bootstrap-sass/assets/stylesheets/_bootstrap","_syntax-highlighting";
+@import "bootstrap-sass/assets/stylesheets/_bootstrap",
+        "_syntax-highlighting"
+;
+.categorie-nav-list>li{
+    cursor: pointer;
+    ul{
+        padding-left: 15px;
+        list-style-type: none;
+    }
+}
