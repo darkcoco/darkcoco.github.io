@@ -1,5 +1,5 @@
 markdown: kramdown
-permalink: /:categories/:title.html
+permalink: /:title.html
 
 author: "darkite"
 email: g70423199@gmail.com

@@ -1,0 +1,28 @@
+---
+layout: page
+title:  "Hello,World!"
+date:   2016-05-21 16:24:00 +0800
+categories: '杂谈'
+---
+
+从github的记录来看，新建这个repository已经有差不多20天了。
+
+今天才算是正式的发布第一篇文章。
+
+总感觉不知道写些什么，之所以搭这个GP也纯粹是为了玩儿一下。
+
+俗话说“千里之行，始于足下”，虽然不知道写些什么，但是只要开始了，也许
+
+后面就会自然而然的知道了。
+
+就像学习编程一样，常常是从“hello world”开始一样。
+
+{% highlight javascript %}
+$(function(){
+    console.log('hello world!')
+});
+{% endhighlight %}
+
+首页不知道放什么，真是愁死人了。o(＞＜；)o o~
+
+
